@@ -1,2 +1,2 @@
-:HL["/zayit-india-fine-dine-live/_next/static/css/26a53b8be9cb5d0b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"BVdLmhwp8Os9-Ue9KQJkc"}
+:HL["/zayit-india-fine-dine-live/_next/static/css/de01b97db4a83ebf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"2lgT7GvSjFUnYoDsu6f8b"}
