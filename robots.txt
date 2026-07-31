@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://zayit-india-jaisalmer.hello-tchopra.chatgpt.site/sitemap.xml
+Sitemap: https://anubhav-2005.github.io/zayit-india-fine-dine-live/sitemap.xml
